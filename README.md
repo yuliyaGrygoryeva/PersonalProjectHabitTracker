@@ -32,7 +32,8 @@ There are a lot of task tracking applications from simple to-do lists to big dai
 - UserNoifications
 - Universal links
 
-### Dependencies
+### Dependencies![A7CF0673-D5CE-4081-BFD8-DFEB20D15013](https://user-images.githubusercontent.com/107269431/184953285-adf75757-b638-48cf-9f79-a9abaf3e7e4d.jpg)
+
 
 - APIs/external data sources:
   - Inspiration quote API
@@ -57,3 +58,6 @@ There are a lot of task tracking applications from simple to-do lists to big dai
 - Do extensive testing and fix any bugs
 - Create video demo of application
 - Publish to AppStore
+![757BB9F8-07DE-4F36-8D03-3E2B50A30E5C](https://user-images.githubusercontent.com/107269431/184953141-41792abf-7f71-46ac-b7d0-0996f4dda88c.jpg)
+
+
